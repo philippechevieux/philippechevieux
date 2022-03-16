@@ -4,16 +4,14 @@
   
 
 ### <div align="center">I'm Philippe Chevieux, a full-time full-stack web developer 💻 </div>  
-  
+<br/>
 
-- 🔭 I’m currently working on [Youtube Playlist Manager](https://github.com/philippechevieux/youtube-playlist-manager)  
-  
 
-- 🌱 I’m currently learning React and TypeScript  
-  
+- 🔭 I’m currently working on this personal project [Youtube Playlist Manager](https://github.com/philippechevieux/youtube-playlist-manager)  
+
+- 🌱 I’m also learning React and TypeScript  
 
 - ❓ At this time not seeking for a new job but you are free to contact me  
-  
 
 - *⚡ Fun fact: "Il faut pas respirer la compote, ça fait tousser" - Karadoc*  
   
@@ -22,9 +20,9 @@
 
 
 ## My Skill Set  
+<br/>  
+
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -68,6 +66,7 @@
 
 
 ## Connect with me  
+<br/> 
 <div align="center">
 <a href="https://github.com/philippechevieux" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
